@@ -1,2 +1,2 @@
 # khan-demo
-This is my first githb reposytory
+This is my first githb repository
